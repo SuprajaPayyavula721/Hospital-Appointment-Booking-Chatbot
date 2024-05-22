@@ -1,0 +1,29 @@
+{
+  "availableslots": [
+    {
+      "week": "monday",
+      "slots": ["10:00-11:00 AM", "12:00-01:00 PM", "03:00-06:00 PM"],
+      "doctors": ["Dr. smith", "Dr. jones"]
+    },
+    {
+      "week": "tuesday",
+      "slots": ["10:00-11:00 AM", "12:00-01:00 PM", "03:00-06:00 PM"],
+      "doctors": ["Dr. smith", "Dr. jones"]
+    },
+    {
+      "week": "wednesday",
+      "slots": ["10:00-11:00 AM", "12:00-01:00 PM", "03:00-06:00 PM"],
+      "doctors": ["Dr. smith", "Dr. jones"]
+    },
+    {
+      "week": "thursday",
+      "slots": ["10:00-11:00 AM", "12:00-01:00 PM", "03:00-06:00 PM"],
+      "doctors": ["Dr. smith", "Dr. jones"]
+    },
+    {
+      "week": "friday",
+      "slots": ["10:00-11:00 AM", "12:00-01:00 PM", "03:00-06:00 PM"],
+      "doctors": ["Dr. smith", "Dr. jones"]
+    }
+  ]
+}
